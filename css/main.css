@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+    padding: 2em;
+}
+.slider {
+    width: 50%;
+    height: 50px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    
+}
+.chair {
+    width: 100%;
+}
